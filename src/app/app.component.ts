@@ -22,6 +22,7 @@ export class AppComponent {
     }
   ];
 
+  const title ='My app'
   constructor(
     private platform: Platform,
     private splashScreen: SplashScreen,
